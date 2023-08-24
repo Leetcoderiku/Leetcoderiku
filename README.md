@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneet</h1>
 <h3 align="center">An Aspiring Full Stack developer from India</h3>
-<img align ="top center" alt ="coding" width ="400" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_600_2000/0/1634533856823?e=2147483647&v=beta&t=zkv31dKFVl8b30Y-e63fL-3_BzHvfwTMYvq12_5VHUI">
+<img align ="top" alt ="coding" width ="400" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_600_2000/0/1634533856823?e=2147483647&v=beta&t=zkv31dKFVl8b30Y-e63fL-3_BzHvfwTMYvq12_5VHUI">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
